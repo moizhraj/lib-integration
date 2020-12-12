@@ -1,6 +1,8 @@
 ## C Static Library integration sample
 This is a temp C Static library integration repo. 
 
+> NOTE: THIS REPO DOES NOT COMPILE YET. WORKING ON A FIX.
+
 ### Pre-reqs
 1. gcc
 1. cmake
