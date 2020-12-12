@@ -16,15 +16,15 @@ Windows
 ### Build Steps
 * Clone
 * Open with VS Code
-* Select the compiler/kit by clicking at the bottom bar
+* Select the compiler/kit by clicking at the bottom bar (the one selected below is GCC 8.1.0)
 
    ![SELECT COMPILER](resources/select-compiler-1.jpg)
    
    ![SELECT COMPILER](resources/select-compiler-2.jpg)
    
-* Select the cmake extension icon 
+* Select the cmake extension icon (1)
 
    ![SELECT COMPILER](resources/cmake-extension-1.jpg)
 
-   * Click configure all projects
-   * Click build all projects
+   * Click configure all projects (2)
+   * Click build all projects (3)
