@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Source/lib-sample/build",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe  @CMakeFiles/lib_integration.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\lib_integration.dir\\main.c.obj -c C:\\Source\\lib-sample\\main.c",
+  "file": "C:/Source/lib-sample/main.c"
+}
+]

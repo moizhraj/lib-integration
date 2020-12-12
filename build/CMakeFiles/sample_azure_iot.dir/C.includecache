@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/math-ops/mathops.h
+
+C:/Source/lib-sample/main.c
+string.h
+-
+stdio.h
+-
+mathops.h
+C:/Source/lib-sample/mathops.h
+

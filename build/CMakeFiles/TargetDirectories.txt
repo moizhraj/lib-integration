@@ -1,0 +1,3 @@
+C:/Source/lib-sample/build/CMakeFiles/lib_integration.dir
+C:/Source/lib-sample/build/CMakeFiles/edit_cache.dir
+C:/Source/lib-sample/build/CMakeFiles/rebuild_cache.dir
