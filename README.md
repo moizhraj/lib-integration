@@ -1,5 +1,5 @@
 ## C Static Library integration sample
-This is a temp C Staitc library integration repo. 
+This is a temp C Static library integration repo. 
 
 ### Pre-reqs
 1. gcc
