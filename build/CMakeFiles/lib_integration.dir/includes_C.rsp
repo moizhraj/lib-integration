@@ -1,1 +1,0 @@
--IC:/Source/lib-sample/PUBLIC -IC:/Source/lib-sample/inc -isystem C:/Source/lib-sample/inc/math-ops -isystem C:/Source/lib-sample/inc/paho-mqtt

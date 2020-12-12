@@ -1,3 +1,0 @@
-"C:\Program Files (x86)\CMake\bin\cmake.exe" -E rm -f CMakeFiles\sample_lib_int.dir/objects.a
-C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\sample_lib_int.dir/objects.a @CMakeFiles\sample_lib_int.dir\objects1.rsp
-C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\sample_lib_int.dir/objects.a -Wl,--no-whole-archive -o sample_lib_int.exe -Wl,--out-implib,libsample_lib_int.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sample_lib_int.dir\linklibs.rsp
